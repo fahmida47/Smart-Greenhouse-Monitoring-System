@@ -2,7 +2,6 @@
 
 An **ESP32-based Smart Greenhouse Monitoring and Control System** designed to automatically monitor environmental conditions and control essential greenhouse operations such as irrigation, ventilation, lighting, and roof movement.The system uses multiple sensors to collect real-time environmental data and applies predefined conditions to automatically control different actuators.
 
----
 ## Projects
 <img width="1448" height="1086" alt="WhatsApp Image 2026-09-28 at 21 54 26" src="https://github.com/user-attachments/assets/263b1121-99ff-44ee-b22a-3c853f1a09b1" />
 
